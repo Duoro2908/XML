@@ -1,0 +1,10 @@
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\bin\Debug\Proyecto_XML.exe.config
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\bin\Debug\Proyecto_XML.exe
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\bin\Debug\Proyecto_XML.pdb
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.csproj.AssemblyReference.cache
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.Form1.resources
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.Properties.Resources.resources
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.csproj.GenerateResource.cache
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.exe
+C:\Users\Alexander\OneDrive\Desktop\XML\Proyecto_XML\Proyecto_XML\obj\Debug\Proyecto_XML.pdb
